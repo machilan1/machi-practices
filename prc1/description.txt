@@ -1,3 +1,8 @@
+TODO
+1. try run prc1.ts with cli commands  
+
+    $ tsx ./prc1/prc1.ts
+
 Goals
 1. Learn how to run ts script using cli commands.
 2. Learn to start a script by defining main function
