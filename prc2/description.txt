@@ -1,3 +1,8 @@
+TODO:
+1. Implements the functions using "map" method on arrays.
+
+2. See your results by running prc2.ts
+
 Goals:
 1. Get used to the idea of transform array of data using map method
 
