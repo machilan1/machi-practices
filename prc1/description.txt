@@ -1,0 +1,6 @@
+Goals
+1. Learn how to run ts script using cli commands.
+2. Learn to start a script by defining main function
+Key words
+1. tsx
+2. main

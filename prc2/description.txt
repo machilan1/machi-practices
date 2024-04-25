@@ -1,0 +1,5 @@
+Goals:
+1. Get used to the idea of transform array of data using map method
+
+Key words:
+1. map
