@@ -19,7 +19,7 @@ function square(data: number[]) {
 // eg. [1, 2, 3, 4, 5] => [0, 0, 0, 0, 0]
 
 function toZero(data: number[]) {
-  //TODO:  your implementation 
+  //TODO: 
 }
 
 //Question 4 - Implement a function that takes an array of numbers and returns an array of strings representing the numbers.
